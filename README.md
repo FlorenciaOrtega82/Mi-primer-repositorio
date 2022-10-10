@@ -1,4 +1,4 @@
 # Mi-primer-repositorio
 
 Mi primer commit 
-Cambios en el archivo readme 
+Actividad 1. cambios en archivo readme con pull request 
